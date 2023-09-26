@@ -1,5 +1,5 @@
 int main()
 {
-  std::cout<<"Lol";
+  std::cout<<"Lol"<<std::endl;
   return 0;
 }
